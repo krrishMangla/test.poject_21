@@ -13,7 +13,7 @@ function setup(){
 
     box = createSprite(400,100,30,30);
     box.shapeColor="white";
-    box.velocityY = 3;
+    box.velocityY = -3;
     
     surface1 = createSprite(80,590,185,20);
     surface1.shapeColor="blue";
